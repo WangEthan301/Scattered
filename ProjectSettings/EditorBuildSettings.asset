@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: c7e420ab79d3cc64ea25f475fdf56a23
+  - enabled: 1
+    path: Assets/Scenes/Memory Match.unity
+    guid: 7f469f2b4c32a0745b031eeae66c8e10
+  - enabled: 1
+    path: Assets/Scenes/Scene 2D.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Scene 3D.unity
+    guid: 9db3d459fee9b4145b8acdb9b0631111
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 4f7d3ca3938dc0342addfde7b29ec655
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
