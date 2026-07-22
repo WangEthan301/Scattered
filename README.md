@@ -1,6 +1,6 @@
 # Scattered
 
-> **🏆 3rd Place Winner** at the *Comes In Pairs Game Jam* (The Woodlands Secondary School)  
+> **🏆 3rd Place Winner** at the *Comes In Pairs Game Jam* (The Woodlands Secondary School CS Club)  
 > *Note: This was our team's first-ever game jam!*
 
 🎮 **[Play the game on Itch.io!](https://cheesyinthehead.itch.io/scattered)**
@@ -22,7 +22,7 @@ The game starts with memory match where the player needs to form **pairs**. Afte
 * **Language:** C#
 
 ## Technical Challenges & Learnings
-This was the first-ever game jam (and hackathon) for both of us, meaning we had to learn Unity and C# game development entirely on the fly during the hacking period. 
+This was the first-ever game jam for both of us, meaning we had to learn Unity and C# game development entirely on the fly during the hacking period. 
 
 We specifically had to figure out:
 * **Bridging 2D and 3D Environments:** Managing the transition between the 2D and 3D worlds meant we had to learn two entirely different physics systems, camera perspectives, and movement scripts.
